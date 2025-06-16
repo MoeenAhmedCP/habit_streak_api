@@ -70,7 +70,7 @@ A Ruby on Rails API backend for tracking daily habits, visualizing progress, and
 ### Setup
 
 ```bash
-git clone https://github.com/your-username/habit_streak_api.git
+git clone (https://github.com/MoeenAhmedCP/habit_streak_api.git)
 cd habit_streak_api
 
 bundle install
