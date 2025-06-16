@@ -1,4 +1,3 @@
 class HabitEntrySerializer < ActiveModel::Serializer
-  attributes :id, :date, :completed
-  has_one :habit
+  attributes :id, :habit_id, :date, :completed
 end
